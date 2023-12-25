@@ -24,5 +24,6 @@ public class palindrome {
         {
             System.out.println("Entered number: " + dup +" is not palindrome");
         }
+        sc.close();
     }
 }
