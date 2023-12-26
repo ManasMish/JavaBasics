@@ -1,4 +1,4 @@
-package basicJ;
+package BasicPracticeProblems;
 
 import java.util.Scanner;
 
@@ -12,5 +12,6 @@ public class tabel {
             {
                 System.out.println(n+"*"+i+"="+(n*i));
             }
+            sc.close();
             }
 }
