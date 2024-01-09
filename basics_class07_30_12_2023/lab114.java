@@ -1,4 +1,4 @@
-package OOPs_class07_30_12_2023;
+package basics_class07_30_12_2023;
 
 public class lab114 {
     public static void main(String[] args) {

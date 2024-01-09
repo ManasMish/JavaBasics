@@ -1,6 +1,4 @@
-package OOPs_class07_30_12_2023;
-
-import static java.lang.Integer.sum;
+package basics_class07_30_12_2023;
 
 public class lab112 {
     public static void main(String[] args) {
