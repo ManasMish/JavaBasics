@@ -8,7 +8,14 @@ public class lab155 {
 
             }
         };
+        s1.setId();
+        noname s2=new noname();
+        s2.setId();
         }
+        B b=new B() {
+            // This is a Anoy class
+            // No Name
+    };
 }
 abstract class B
 {
