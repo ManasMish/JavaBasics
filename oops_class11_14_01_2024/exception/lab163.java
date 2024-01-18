@@ -2,6 +2,7 @@ package oops_class11_14_01_2024.exception;
 
 public class lab163 {
     public static void main(String[] args) {
+        System.out.println(args.length);
         String sh=args[0];
         int x=Integer.parseInt(sh);
         int a=10/x;

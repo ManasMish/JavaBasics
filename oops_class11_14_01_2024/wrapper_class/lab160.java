@@ -4,8 +4,8 @@ public class lab160 {
     public static void main(String[] args) {
         int x=125;
 //        String st1=x;
-//        String st1=(String) x;
-        String st1=x+"";
+//        String st1=(String) x; // Downcasting
+        String st1=x+""; // Concatination
         String s1=String.valueOf(x);
         System.out.println(st1);
         System.out.println(s1);
