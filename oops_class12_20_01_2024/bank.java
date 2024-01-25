@@ -25,7 +25,7 @@ public class bank {
         this.amount = amount;
     }
     public Integer add(bank banKName) throws CustomException {
-        if (!(banKName.currency.equalsIgnoreCase("INR"))) {
+        if (!(banKName.currency.equalsIgnoreCase("USD"))) {
             throw new CustomException("USD to INR not supported!");
 //            throw new ArithmeticException("Arthi");
         }

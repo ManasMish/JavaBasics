@@ -4,11 +4,11 @@ public class lab176 {
     public static void main(String[] args) {
     Person p1=new Person("Manas",25);
     Person p2=new Person("Mishra",26);
-//        System.out.println(p1.getAge());
 
-//    Person []objs=new Person[2];
-//    objs[0]=amit;
-//    objs[1] = pramod;
+    Person []obj_arr=new Person[2];
+    obj_arr[0]=p1;
+    obj_arr[1]=p2;
+
 
 }
 }
